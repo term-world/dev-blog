@@ -2,7 +2,7 @@
 team: team
 ---
 
-{{/*
+<!--
   TO-DO: include a basic bio for each team member. No more than three sentences:
 
   * Description of their "role" in the team (perhaps semi-serious/novelty)
@@ -10,7 +10,7 @@ team: team
   * Their answer to the question, "Why TermWorld?"
 
   Also, *maybe* consider adding a photo / alternatively, pixel-art portraits of each team member
-*/}}
+-->
 
 ## Doug Luman (digital human)
 
@@ -22,7 +22,7 @@ team: team
 
 ### Background
 
-* [Assistant Professor, Deparment of Computer Science](https://cs.allegheny.edu/sites/dluman)
+* [Assistant Professor, Department of Computer Science](https://cs.allegheny.edu/sites/dluman)
 
 ### Why `term-world`?
 
