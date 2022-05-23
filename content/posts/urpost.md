@@ -6,7 +6,8 @@ authorTwitter = "douglasjluman" #do not include @
 cover = ""
 tags = ["process","pedagogy","introduction"]
 keywords = ["brian dear","jupyter","education","pedagogy","terminal","B.F Skinner", "teaching machines", "PLATO"]
-description = "A post detailing the origin story of the project."
+description = "The temptation to see innovation or new ways of thinking (or, in our case, teaching) as springing fully-formed from nowhere in particular exists as a particularly pervasive mindset in technology-adjacent fields -- in this instance, the popular
+canon of computer science. Here, we document our beginnings as a project and how this responds to prior work on teaching machines."
 showFullContent = false
 readingTime = true
 hideComments = false
