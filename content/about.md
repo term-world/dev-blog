@@ -21,6 +21,6 @@ namely through the following Allegheny College internal funding sources:
 
 * McCune Dean's Fund for Student and Faculty Research fund
 * Louis Jefferson Long Student/Faculty Research fund
-* Richard J. Cook & Teresa M. Lahti Endowment for Research and Creative Activity fund
+* Richard J. Cook & Teresa M. Lahti Endowment for Research and Creative Activity
 
 We are grateful for their support of this project.
