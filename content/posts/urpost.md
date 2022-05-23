@@ -88,8 +88,10 @@ that inspires questions about how voting systems work; ideas about new technolog
 to enhance human experience.
 
 These are big goals; they're practically unattainable. In many senses, they're also probably impractical. The questions inherent are, by nature, without a fixed answer. But, we
-believe in the transformation brought on by the attempt. The artist [Douglas Kearney](https://www.douglaskearney.com/) once wrote that writing (here, I substitute _all_ creative expression) is a "danger room." And, for me, the idea of a 
-"teaching machine" feels like it could essentially be a sparring partner, an environment to "train up" or "try out."
+believe in the transformation brought on by the attempt. The artist [Douglas Kearney](https://www.douglaskearney.com/) once wrote that writing (here, I substitute _all_ expression) is a "danger room." And, for me, the idea of a 
+"teaching machine" feels like it could essentially be a sparring partner, an environment to "train up" or "try out." The virtual space is a place that we can use to simulate
+this danger room, allowing students to gain confidence in an expression method which has come to not only dominate, but characterize daily life. We provide `term-world` as a sandbox
+to do both of these things, and allow our students and ourselves room to practice and spread the computer science adage to "fail hard, and fail fast."
 
 As much as we're also trying things out, Danny, Jeff, Mai, and I invite you to follow our progress and engage with us here or via our 
 [project GitHub](https://github.com/term-worldhttps://github.com/term-world)!
