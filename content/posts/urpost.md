@@ -61,7 +61,7 @@ which enables learning. In the best cases, the professor's role here, though sig
 
 What has been a radical pivot for me results in the project you're reading about now.
 
-## `term-world`
+## The "what" of `term-world`
 
 In short, we're building an immersive world game that serves as the platform for the Allegheny College introductory computer science course, CMPSC 100: Computational Expression.
 
