@@ -14,3 +14,13 @@ are most succinctly captured in the below excerpt from that original proposal:
 > computer science education. This project leverages both interdisciplinary principles and students
 > as co-developers to explore new applications of pedagogy not necessarily limited to the
 > discipline of computer science.
+
+This work is generously funded by the 
+[Allegheny College Undergraduate Research, Scholarship, and Creative Activities (URSCA) office](https://sites.allegheny.edu/research/examples-of-ursca-at-allegheny/),
+namely through the following Allegheny College internal funding sources:
+
+* McCune Dean's Fund for Student and Faculty Research fund
+* Louis Jefferson Long Student/Faculty Research fund
+* Richard J. Cook & Teresa M. Lahti Endowment for Research and Creative Activity fund
+
+We are grateful for their support of this project.

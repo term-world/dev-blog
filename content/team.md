@@ -12,15 +12,29 @@ team: team
   Also, *maybe* consider adding a photo / alternatively, pixel-art portraits of each team member
 */}}
 
-## Doug Luman (Research director)
+## Doug Luman (digital human)
 
+### Responsibilities
 
+* Generally (ir)responsible for development plan
+* Drinks all the coffee
+* Feeds the termite
 
-## Danny Ullrich (Developer)
+### Background
 
-## Jeff Normile (Developer/Editor)
+* [Assistant Professor, Deparment of Computer Science](https://cs.allegheny.edu/sites/dluman)
 
-## Mai Nguyen (Developer)
+### Why `term-world`?
 
-## Terry (Mascot)
+Returning to the classroom from the "remote" era of the COVID-19 pandemic, it became clear to me that the site and purpose of the classroom was forever changed. In response,
+I started having conversations with students about ways in which education could respond to this change. Based on the "applied" approach of the Allegheny CS department, we chose
+an immersive digital, open-world environment as our experimental space.
+
+## Danny Ullrich (developer)
+
+## Jeff Normile (developer, editor)
+
+## Mai Nguyen (developer)
+
+## Terry (mascot)
 Name very much pending
