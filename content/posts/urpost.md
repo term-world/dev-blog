@@ -1,20 +1,20 @@
 +++
-title = "The Urpost"
+title = "Introduction, or Of Course You End Up Becoming Yourself"
 date = "2022-05-23T10:21:55-04:00"
 author = "Doug Luman"
 authorTwitter = "douglasjluman" #do not include @
 cover = ""
-tags = ["process","introduction","education","pedagogy"]
-keywords = ["brian dear", "jupyter","education","pedagogy"]
+tags = ["process","pedagogy","introduction"]
+keywords = ["brian dear","jupyter","education","pedagogy","terminal","B.F Skinner", "teaching machines", "PLATO"]
 description = "A post detailing the origin story of the project."
 showFullContent = false
 readingTime = true
-hideComments = true
+hideComments = false
 +++
 
-## Introduction, or Of Course You End Up Becoming Yourself
+_Regards to David Lipsky's book on the author David Foster Wallace for the title._
 
-_(The title, with regards to David Lipsky's book on the author David Foster Wallace.)_
+## Introduction
 
 Having just graduated the 2022 class, the 200-something<sup>th</sup> in the long history of Allegheny College, I once again realize that the undergraduate team behind the project you're reading
 about shares something with the past weekend's newly-minted alumni: the sense that we build on and through a sense of history. The temptation to see innovation or new ways of thinking
@@ -61,7 +61,7 @@ which enables learning. In the best cases, the professor's role here, though sig
 
 What has been a radical pivot for me results in the project you're reading about now.
 
-## The "what" of `term-world`
+## What is `term-world`?
 
 In short, we're building an immersive world game that serves as the platform for the Allegheny College introductory computer science course, CMPSC 100: Computational Expression.
 
@@ -70,7 +70,7 @@ Activities (URSCA) office](https://sites.allegheny.edu/research/examples-of-ursc
 rely on their students to push them, to test ideas, and to be co-creators in the learning process. Conversations with Danny, Jeff, and Mai have (over the years) often resulted
 in me understanding my practice better. Here, we're turning that motivation into a physical reality.
 
-So, what is `term-world`? In my undergraduate days, [Second Life](https://secondlife.com/) was a _big_ thing. (Side note: the rise of the "metaverse" is pretty much an echo
+So, why `term-world`? In my undergraduate days, [Second Life](https://secondlife.com/) was a _big_ thing. (Side note: the rise of the "metaverse" is pretty much an echo
 of this time.) Without a vocabulary for it, educational institutions were going "all-in" on immersive education, mostly centered around asset creation -- buildings, items in-game,
 etc. -- without approaching it as "systems thinking." It was creation for creation's sake or -- at worst -- the "awe of implementation" all over gain. Our approach to developing 
 `term-world` contemplates these contemporary references alongside the historical ideas of "multi-user dungeons" (MUDs) and, of course, lessons learned from systems like PLATO, 
@@ -88,4 +88,7 @@ to enhance human experience.
 
 These are big goals; they're practically unattainable. In many senses, they're also probably impractical. The questions inherent are, by nature, without a fixed answer. But, we
 believe in the transformation brought on by the attempt. The artist [Douglas Kearney](https://www.douglaskearney.com/) once wrote that writing (here, I substitute _all_ creative expression) is a "danger room." And, for me, the idea of a 
-"teaching machine" feels like it could essentially be a sparring partner, something to "train" with. 
+"teaching machine" feels like it could essentially be a sparring partner, an environment to "train up" or "try out."
+
+As much as we're also trying things out, Danny, Jeff, Mai, and I invite you to follow our progress and engage with us here or via our 
+[project GitHub](https://github.com/term-worldhttps://github.com/term-world)!
