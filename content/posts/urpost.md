@@ -66,7 +66,7 @@ What has been a radical pivot for me results in the project you're reading about
 In short, we're building an immersive world game that serves as the platform for the Allegheny College introductory computer science course, CMPSC 100: Computational Expression.
 
 It's no surprise that the students working with me on this summer research project (generously supported by the [Allegheny College Undergraduate Research, Scholarship, and Creative
-Activities office (URSCA)](https://sites.allegheny.edu/research/examples-of-ursca-at-allegheny/)) are the same students with which I've been talking. Professors at Allegheny
+Activities (URSCA) office](https://sites.allegheny.edu/research/examples-of-ursca-at-allegheny/)) are the same students with which I've been talking. Professors at Allegheny
 rely on their students to push them, to test ideas, and to be co-creators in the learning process. Conversations with Danny, Jeff, and Mai have (over the years) often resulted
 in me understanding my practice better. Here, we're turning that motivation into a physical reality.
 
@@ -80,5 +80,12 @@ hooks surface.
 We're interested in asking questions around "systems thinking" and the interdisciplinary status of computer science as a subject. While I'll let the students write about the
 "what" of the worldscape, I see this project as a chance to repair and advance my (and others') thinking about immersive world education and what happens when you let students
 determine the contents of their world. As a department, we know that we retain some number of students who come through the introductory CS course, but also that 
-we send a greater number ot all of the other disciplines represented on campus. With `term-world` as a tool, we hope to introduce the technical aspects of those subjects that
-students -- once engaged as professional practitioners -- will encounter.
+we send a greater number to all of the other disciplines represented on campus. 
+
+With `term-world` as a tool, we hope to introduce the technical aspects of those subjects that students -- once engaged as professional practitioners -- will encounter, work
+that inspires questions about how voting systems work; ideas about new technologies in economics; thoughts about how, if given the chance, one would redesign social infrastructure
+to enhance human experience.
+
+These are big goals; they're practically unattainable. In many senses, they're also probably impractical. The questions inherent are, by nature, without a fixed answer. But, we
+believe in the transformation brought on by the attempt. The artist [Douglas Kearney](https://www.douglaskearney.com/) once wrote that writing (here, I substitute _all_ creative expression) is a "danger room." And, for me, the idea of a 
+"teaching machine" feels like it could essentially be a sparring partner, something to "train" with. 
