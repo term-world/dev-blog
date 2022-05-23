@@ -90,5 +90,5 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "team"
-        name = "Meet the `term-world` Team"
+        name = "Meet the term-world Team"
         url = "/team"
