@@ -58,7 +58,8 @@ something like a teaching machine.
 One thing remains true, however, from this experience: the classroom is a fundamentally changed place. I started making decisions to fully "flip" the classroom and given some
 level of conceptual control and responsibility for knowledge formation back to the students. Especially as pertains to education, the "Zoom" era has, for many "applied" subjects,
 made lecture obsolete. Students voiced a desire to come back to campus not, I feel, for the chance to come to class, but to be part of a class community, a peer space
-which enables learning. In the best cases, the professor's role here, though significant, is invisible as such. Realizing this, I returned to bell hooks more than anything Bell Labs.
+which enables learning. In the best cases, the professor's role here, though significant, is invisible as such. Realizing this, I returned to bell hooks more than anything 
+related to Bell Labs.
 
 What has been a radical pivot for me results in the project you're reading about now.
 
@@ -75,8 +76,8 @@ So, why `term-world`? In my undergraduate days, [Second Life](https://secondlife
 of this time.) Without a vocabulary for it, educational institutions were going "all-in" on immersive education, mostly centered around asset creation -- buildings, items in-game,
 etc. -- without approaching it as "systems thinking." It was creation for creation's sake or -- at worst -- the "awe of implementation" all over gain. Our approach to developing 
 `term-world` contemplates these contemporary references alongside the historical ideas of "multi-user dungeons" (MUDs) and, of course, lessons learned from systems like PLATO, 
-games like "Space War" and "Adventure" (from the early Digital Equipment Corporation PDP days), wrapped in the kinds of student-directed/community learning the work by Dear and
-hooks surface.
+games like "Space War" and "Adventure" (from the early Digital Equipment Corporation PDP hacker era), wrapped in the kinds of student-directed/community learning the work by Dear and
+hooks surface, with particular intellectual debt to bell hooks.
 
 We're interested in asking questions around "systems thinking" and the interdisciplinary status of computer science as a subject. While I'll let the students write about the
 "what" of the worldscape, I see this project as a chance to repair and advance my (and others') thinking about immersive world education and what happens when you let students
