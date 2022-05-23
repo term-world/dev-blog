@@ -73,7 +73,7 @@ in me understanding my practice better. Here, we're turning that motivation into
 
 So, why `term-world`? In my undergraduate days, [Second Life](https://secondlife.com/) was a _big_ thing. (Side note: the rise of the "metaverse" is pretty much an echo
 of this time.) Without a vocabulary for it, educational institutions were going "all-in" on immersive education, mostly centered around asset creation -- buildings, items in-game,
-etc. -- without approaching it as "systems thinking." It was creation for creation's sake or -- at worst -- the "awe of implementation" all over gain. Our approach to developing 
+etc. -- without approaching it as "systems thinking." It was creation for creation's sake or -- at worst -- the "awe of implementation" all over again. Our approach to developing 
 `term-world` contemplates these contemporary references alongside the historical ideas of "multi-user dungeons" (MUDs) and, of course, lessons learned from systems like PLATO, 
 games like "Space War" and "Adventure" (from the early Digital Equipment Corporation PDP hacker era), wrapped in the kinds of student-directed/community learning the work by Dear and
 hooks surface, with particular intellectual debt to bell hooks.
