@@ -78,7 +78,16 @@ etc. -- without approaching it as "systems thinking." It was creation for creati
 games like "Space War" and "Adventure" (from the early Digital Equipment Corporation PDP hacker era), wrapped in the kinds of student-directed/community learning the work by Dear and
 hooks surface, with particular intellectual debt to bell hooks.
 
-We're interested in asking questions around "systems thinking" and the interdisciplinary status of computer science as a subject. While I'll let the students write about the
+Being that this work is housed at a liberal arts institution, we take up a multi-faceted interest in "community" in that we aim to establish a digital communtiy that thinks about
+governance, economy, infrastructure, and norms or ethics. In many ways, this project aims to be as ultimate a sandbox as we can make it, one that develops class by class over time.
+If one class thinks that ranked-choice voting is the best governance structure, it's entirely likely that the next could develop something wholly different. Equally, it's
+inevitable that a class 10 years from now might have very different ideas about how to structure in-world reward for labor. 
+
+Tackling questions that result in software/digital interventions aims to demonstrate how computational work supports so much in "real-world" goings-on, from voting machines to
+the influence of digital currencies and payments. Considering the variety of students we see in the CS department and how their careers will be shaped by technical knowledge, the
+`term-world` team maintains a sincere interest in how students will respond to these challenges as prompts.
+
+This means that we're also interested in asking questions around "systems thinking" and the interdisciplinary status of computer science as a subject. While I'll let the students write about the
 "what" of the worldscape, I see this project as a chance to repair and advance my (and others') thinking about immersive world education and what happens when you let students
 determine the contents of their world. As a department, we know that we retain some number of students who come through the introductory CS course, but also that 
 we send a greater number to all of the other disciplines represented on campus. 
