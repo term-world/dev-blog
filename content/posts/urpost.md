@@ -23,7 +23,7 @@ canon of computer science.
 
 I started my nascent career as a CS professor without a full appreciation of deep history of teaching "moves" in the discipline. Though I consider myself someone who is preternaturally 
 skeptical of the so-called "awe of implementation," I found myself feeling particularly clever about how I'd just taught a subject without realizing that this self-satisfied 
-apprehension existed in a vacuum. Spolier: I _was_ living in a vacuum. 
+apprehension existed in a vacuum. Spoiler: I _was_ living in a vacuum. 
 
 Modern computer science education has its own litany of innovators and teachers who have set and reset the course of CS education. We benefit from the fact that much of this work 
 is taking place in real-time. I set about reading dense Twitter threads about whether or not `while` statements are introductory material or how students have difficulty 
@@ -78,7 +78,7 @@ etc. -- without approaching it as "systems thinking." It was creation for creati
 games like "Space War" and "Adventure" (from the early Digital Equipment Corporation PDP hacker era), wrapped in the kinds of student-directed/community learning the work by Dear and
 hooks surface, with particular intellectual debt to bell hooks.
 
-Being that this work is housed at a liberal arts institution, we take up a multi-faceted interest in "community" in that we aim to establish a digital communtiy that thinks about
+Being that this work is housed at a liberal arts institution, we take up a multi-faceted interest in "community" in that we aim to establish a digital community that thinks about
 governance, economy, infrastructure, and norms or ethics. In many ways, this project aims to be as ultimate a sandbox as we can make it, one that develops class by class over time.
 If one class thinks that ranked-choice voting is the best governance structure, it's entirely likely that the next could develop something wholly different. Equally, it's
 inevitable that a class 10 years from now might have very different ideas about how to structure in-world reward for labor. 

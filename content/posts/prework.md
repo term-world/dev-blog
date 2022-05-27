@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["introduction","student","process"]
 keywords = ["", ""]
-description = "Here we explore a student's perspective on the origins of `term-world`, and the experiences that have contributed to his understanding of what the project represents and aims to accomplish."
+description = "Here we establish a student's perspective on the origins of `term-world`, and the experiences that have contributed to his understanding of what the project represents and aims to accomplish."
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -28,7 +28,7 @@ One of the first activities we took on as a class was focused on teaching the ba
 
 Our terminals had transformed before our very eyes! This wasn't just some window to enter commands in, like we had been told--no, this was the `mansion`. A tree of file folders had been constructed to represent the floorplan of a mansion (er, a *spooky* mansion) and it was our task to use the few navigational commands that had just been given to us to locate a treasure in the depths of the `mansion`. Each folder--or room--had been outfitted with a single line of descriptive text (upon entering the `coatroom` you would be told that it was `Just a room for coats. A coat room.`) and a selection of options for rooms that could be navigated into from your new position in the `mansion`.
 
-Beyond this, the `mansion` had been outfitted with secret passages that had to be actively sought for, and there was the promise of a secret password that would take you to an optional prize, one that was even *better* than the treasure that was our primary goal.
+Beyond this, the `mansion` had been outfitted with secret passages that had to be actively sought out, and there was the promise of a secret password that would take you to an optional prize, one that was even *better* than the treasure that was our primary goal.
 
 The classroom lit up that afternoon. Students were excitedly chattering with each other about the secrets they had unearthed, some were stuck after taking a one-way secret passage and needed the assistance of their peers to figure out how to clamber out of their predicament. There was an unspoken sense of competition between those looking for the password, hushed whispers to the instructor indicating they had found the prize--the extra special super hidden one, that is.
 
