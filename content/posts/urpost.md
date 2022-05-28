@@ -12,8 +12,6 @@ readingTime = true
 hideComments = false
 +++
 
-_Regards to David Lipsky's book on the author David Foster Wallace for the title._
-
 ## Introduction
 
 Having just graduated the 2022 class, the 200-something<sup>th</sup> in the long history of Allegheny College, I once again realize that the undergraduate team behind the project you're reading
