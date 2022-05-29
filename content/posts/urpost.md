@@ -100,5 +100,4 @@ believe in the transformation brought on by the attempt. The artist [Douglas Kea
 this danger room, allowing students to gain confidence in an expression method which has come to not only dominate, but characterize daily life. We provide `term-world` as a sandbox
 to do both of these things, and allow our students and ourselves room to practice and spread the computer science adage to "fail hard, and fail fast."
 
-As much as we're also trying things out, Danny, Jeff, Mai, and I invite you to our world: 
-[project GitHub](https://github.com/term-worldhttps://github.com/term-world)!
+As much as we're also trying things out, Danny, Jeff, Mai, and I invite you to [our world].(https://github.com/term-world)!
