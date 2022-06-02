@@ -96,4 +96,41 @@ larger challenges to address via shared space.
 ## Curricular content
 
 At the same time that we're developing the infrastructure supporting interaction with the world, the real "software" here is the curriculum itself -- the
-lessons that, with the right access assumed, make the community go from a possibility to a reality.
+lessons that, with the right access assumed, make the community go from possibility to reality. 
+
+Prior engagements with developing the course work never felt quite "right" before we arrived at what we're calling the class' "persistent metaphor." With
+somewhat equal weight, we have a significant responsibility to make the layer that students interact with to be as rigorously tested and tried as the 
+technical solutions "running" it. If education is at all comparable to being a "software of the mind," our programming here has to be careful.
+
+In the previous post, Jeff outlined his engagement with the course and, being a student so recently engaged in both taking and assisting in the course, he's
+done a large amount of the work of documenting the outcomes from various conversations about what students will actually _do_ in the course. Moreso than
+anyone else involved in the project, Jeff worked consistently on the project as the semester wore on. From week to week, it was common for him to check in
+with his progress and ask for feedback on this next iteration.
+
+Perhaps above the technical allure, the outlines of the pedagogical ("teaching") part of the work really made this project a candidate for the opportunity we 
+have through the school to work on our quasi-reality with reasonable support.
+
+As we make the platform workable, Jeff is largely dedicated to expanding and building the practical side of the course. Like everything else with this project, 
+it's also visible via our [world-building wiki](https://github.com/term-world/world-building/wiki).
+
+There are really two tricky bits here: ensuring correct "scaffolding" (that lessons build on one another in a reasonably well-paced way) and understanding what
+further technical support we have to build, including an in-world economy, self-hosted infrastructure (i.e. power, a postal service, et al.), and governance. As
+we hope to prove witht his class, these are as much problems of "meatspace" as they are of a digital world. Design and implementation concerning these layers
+are answerable to the students we have yet to teach.
+
+If history is any guide, that's a tough crowd.
+
+## A benediction, of sorts
+
+We're at the point of disembarkation, the release of our time and talents on what is the most massive project we could have proposed with even a shade of
+possibility. Though I feel like we stand on the edge of something, I wonder what kind of edge it is. One thing I'm certain of, though, is that its slope is
+decidedly downward at a steep grade. All we have to spend here is time, and it's already going by incredibly fast. Recounting how I feel about this project:
+we're building the proverbial pirate ship as it sails, maintaining some illusion fo relative stability.
+
+Returning to Philip Dick for a bit of unsettling (as it's always good to remain a bit tentative):
+
+> However, I will reveal a secret to you: I like to build universes which do fall apart. I like to see them come unglued, and I like to see how the characters 
+> in the novels cope with this problem. I have a secret love of chaos. There should be more of it. Do not believe — and I am dead serious when I say this — do 
+> not assume that order and stability are always good, in a society or in a universe.
+
+While I don't _like_ the idea of my technical universe falling apart, I _do_ like remainig just on the edge of it.
