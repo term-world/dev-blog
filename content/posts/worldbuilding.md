@@ -133,4 +133,4 @@ Returning to Philip Dick for a bit of unsettling (as it's always good to remain 
 > in the novels cope with this problem. I have a secret love of chaos. There should be more of it. Do not believe — and I am dead serious when I say this — do 
 > not assume that order and stability are always good, in a society or in a universe.
 
-While I don't _like_ the idea of my technical universe falling apart, I _do_ like remainig just on the edge of it.
+While I don't _like_ the idea of my technical universe falling apart, I _do_ like remaining just on the edge of it.
