@@ -1,5 +1,5 @@
 +++
-title = "Introduction, or 'In a World...'"
+title = "Hello, World"
 date = "2022-05-23T10:21:55-04:00"
 author = "Doug Luman"
 authorTwitter = "douglasjluman" #do not include @
