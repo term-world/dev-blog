@@ -64,7 +64,7 @@ the evolution of the course toward a shared, community experience.
 
 But, this was a trade-off. I wanted to use [Coder's "code-server"](https://github.com/coder/code-serverhttps://github.com/coder/code-server) for the reason
 that opened this section (it's essentially, as billed, "VS Code in the browser"). Given the pull toward curricular uniformity, it'd be a win to introduce
-the platform a sa form of computational "first contact." Of course, however, there was a bit of a problem.
+the platform as a form of computational "first contact." Of course, however, there was a bit of a problem.
 
 ### The problem
 
