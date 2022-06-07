@@ -12,7 +12,7 @@ readingTime = true
 hideComments = false
 +++
 
-When the core group behind this project began developing this idea, it came at a bit of an unforunate time -- February 2022. As fellow academic 
+When the core group behind this project began developing this idea, it came at a bit of an unfortunate time -- February 2022. As fellow academic 
 folk know, once the fall semester starts, it's pretty much a bullet train to May. The academic year exists as an express line; few stops, and 
 it's pretty much a one-way subterranean affair.
 
@@ -115,7 +115,7 @@ it's also visible via our [world-building wiki](https://github.com/term-world/wo
 
 There are really two tricky bits here: ensuring correct "scaffolding" (that lessons build on one another in a reasonably well-paced way) and understanding what
 further technical support we have to build, including an in-world economy, self-hosted infrastructure (i.e. power, a postal service, et al.), and governance. As
-we hope to prove witht his class, these are as much problems of "meatspace" as they are of a digital world. Design and implementation concerning these layers
+we hope to prove with this class, these are as much problems of "meatspace" as they are of a digital world. Design and implementation concerning these layers
 are answerable to the students we have yet to teach.
 
 If history is any guide, that's a tough crowd.
@@ -125,7 +125,7 @@ If history is any guide, that's a tough crowd.
 We're at the point of disembarkation, the release of our time and talents on what is the most massive project we could have proposed with even a shade of
 possibility. Though I feel like we stand on the edge of something, I wonder what kind of edge it is. One thing I'm certain of, though, is that its slope is
 decidedly downward at a steep grade. All we have to spend here is time, and it's already going by incredibly fast. Recounting how I feel about this project:
-we're building the proverbial pirate ship as it sails, maintaining some illusion fo relative stability.
+we're building the proverbial pirate ship as it sails, maintaining some illusion of relative stability.
 
 Returning to Philip Dick for a bit of unsettling (as it's always good to remain a bit tentative):
 
