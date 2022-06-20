@@ -30,7 +30,11 @@ Returning to the classroom from the "remote" era of the COVID-19 pandemic, it be
 I started having conversations with students about ways in which education could respond to this change. Based on the "applied" approach of the Allegheny CS department, we chose
 an immersive digital, open-world environment as our experimental space.
 
+---
+
 ## Danny Ullrich (developer)
+
+---
 
 ## Jeff Normile (developer, editor)
 
@@ -48,6 +52,8 @@ an immersive digital, open-world environment as our experimental space.
 #### Why `term-world`?
 
 CMPSC100 exposed me to the *magic* of creating and manipulating digital realities, and that experience was so intense and eye-opening for me that I just *had* to be involved with that transformative onboarding process well after I was meant to graduate beyond it. I persistently asked for ways to maintain my involvement with the course, Luman eventually caved, and here I am.
+
+---
 
 ## Mai Nguyen (developer)
 
