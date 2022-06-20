@@ -57,5 +57,7 @@ CMPSC100 exposed me to the *magic* of creating and manipulating digital realitie
 
 ## Mai Nguyen (developer)
 
+---
+
 ## Clive (mascot)
 
