@@ -1,5 +1,5 @@
 +++
-title = "To Rule A World"
+title = "To Rule a World"
 date = "2022-06-22T11:15:26-04:00"
 author = "Jeff Normile"
 authorTwitter = "" #do not include @
@@ -47,3 +47,4 @@ Part of leaving that space open for students also means creating as many of the 
 
 In many ways, because my computer science education is the least developed out of any of the project contributors, that's given me a bit of an edge in creating code that's more "readable" to the average CMPSC100 student--a student that will have never read a line of code before. Many of the optimizations that might be automatic for more experienced developers--ones that make programs faster, more efficient, or more resilient (in terms of handling errors)--would never occur to me, and that's potentially beneficial when those optimizations might "clutter" a program's basic function or intent.
 
+This will be a key understanding our team will need to keep in mind as we start to fill the blank canvas we have now with more *things*: we get a baked-in educational "win" for every one of those *things* that can be understood by the students we're aiming to teach. The whole point of `term-world` is to provide a playground that our students actually join us in building--if we provide the swingset and ask the student to build the swing, we need to be mindful that they can readily see where and how their product attaches to what we've already built.
