@@ -103,7 +103,8 @@ In our building, we've refactored this binary into a..._trinary_.
 
 <style>
 p img {
-  text-align: center;
+  position: relative;
+  margin: 0 auto;
 }
 </style>
 
@@ -125,4 +126,30 @@ and thinks about survelliance, data-gathering, and the consequences of student a
 The curtain opens on `term-world` city hall in disarray, meaning: data is strewn about _everywhere_, and students have to do some manual
 analysis to keep the governance structure running. We need new processing systems because we can't get the old ones back online.
 
+We start by giving students what essentially amount to very basic spreadsheets about `term-world` residents (i.e. everyone involved in the
+class). Programmers gain experience looking at data, recalling basic lessons on data types, and create very basic data analytics engines
+to tell the mayor (i.e. the professor) various things about the citizens of `term-world`. Hopefully, everyone feels very office-worker-y.
+Much cubicle; very bore.
 
+The next week, given that city hall is more-or-less OK now, students operate on data about _themselves_ -- average work time, productivity, 
+et al. -- and get a sense that _they've been watched_. The goal here is to continue a surveillance program that had been underway in order
+to set a bar for the "ideal" `term-world` worker. From there, students will need to make decisions based on the data that _may_ constitute
+adverse action.
+
+Of course, the data is synthetic. But, the experience is real and begins to focus their thinking on experiences and impacts of technical
+systems they author. This small nod to _magic_ based on the technical and intuitive understandings they both come to class with and develop
+while in `term-world` should lead to what we hope to be a pivtoal moment in the class, only a week or two before they embark on the free-form
+course project.
+
+## All's well that...ends?
+
+A major feature of the above activity is unscripted. Will students realize what they're doing? Will they opt to, instead of completing the project,
+resist? These are built into the assignments as ways to understand and articulate the technical workings and impact of the "system" we're fictionalizing
+for them. But, for us, the outcome is indeterminate.
+
+However, the primary objective here is to create an _experience_, something that we aim to do in whimsical ways with toasters and cleaning robots and
+serious ways like our world-altering proposition at the mid-term mark. If, then, by magic we mean to create a kind of enchantment by leveraging
+fully-aware learners entering into a kind of fog of the uncertain, we trust that they can engineer their way to the other side or -- at least -- find
+a way to demystify the environment in which they find themselves.
+
+But, not without going through some tricks first.
