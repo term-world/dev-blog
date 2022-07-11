@@ -32,7 +32,7 @@ This post zooms out a bit, returning to thinking about _how_ one might build a t
 machine at a time of significant technical advance (since B.F. Skinner and others' early
 work on the topic) coupled with our need to build a system that teaches technical topics.
 
-## "Inside Baseball"
+## Pay no attention to the man behind the curtain
 
 My first shot at using a collaborative cloud platform, an implementation of 
 [JupyterHub](https://jupyter.org/hub) found major support in Barba, et al.'s digital text 
@@ -40,9 +40,6 @@ My first shot at using a collaborative cloud platform, an implementation of
 the text, the authors highlighted a key tension that pertains to computer science in some
 special ways, namely that our systems and assignments have to balance the exchange between
 the "technical" (too much detail) and the "magical" (not enough detail). 
-
-Many folks may recongize this as the struggle of what many folks call going "inside baseball" 
--- descending to such a technical level that only true "insiders" would understand.
 
 The continuum describes a dilemma that many CS professors have to manage in an introductory class.
 For example: students learning about programming need to -- to some extent -- have a basic grasp
