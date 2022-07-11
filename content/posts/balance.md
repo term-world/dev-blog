@@ -29,8 +29,31 @@ our ideas to each other.)
 This post zooms out a bit, returning to thinking about _how_ one might build a teaching
 machine at a time of significant technical advance (since B.F. Skinner and others' early
 work on the topic) coupled with our need to build a system that teaches technical topics.
+
 My first shot at using a collaborative cloud platform, an implementation of 
 [JupyterHub](https://jupyter.org/hub) found major support in Barba, et al.'s digital text 
-[_Teaching and Learning with Jupyter_](https://jupyter4edu.github.io/jupyter-edu-book/).
+[_Teaching and Learning with Jupyter_](https://jupyter4edu.github.io/jupyter-edu-book/). In
+the text, the authors highlighted a key tension that pertains to computer science in some
+special ways, namely that our systems and assignments have to balance the exchange between
+the "technical" (too much detail) and the "magical" (not enough detail). 
 
-![Triangle showing "magical", "intuitive", and "technical" at the vertices](term-angle-diagram.png)
+The continuum describes a dilemma that many CS professors have to manage in an introductory class.
+For example: students learning about programming need to -- to some extent -- have a basic grasp
+of _how_ the Python interpreter runs scripts. Here, we could go a number of ways that describe
+transpiling, the way a computer processor works, and many other topics. But, we typically don't go 
+very far into any of that or into any of those topics at all. We think to ourselves "what level
+of abstraction (removal from technical 'guts') gives students what they need _right now_?" 
+
+Typically the answer to the above answer is to say that every line in a program is an instruction and
+that the Python interpreter processes each of these one at a time from the top down according to "Flow
+of Control." We create a kind of parallel construct -- "Flow of Control" -- to describe all of this.
+Reduction -- or, in this case what really amounts to packaging and vocabulary -- gives our students 
+enough techincal detail to understand what they need to know about the order of operations while still
+maintaining some level of the "magic" of what happens in the "black box" of the processor.
+
+The above example illustrates the kind of thinking which lead our team to make the binary continuum 
+("techical" vs. "magical") into something that depicts _three_ forces. After all, if we think about
+computer code like writing, we can think about "reading" it (this idea, of course, borrows substantively
+from Annette Vee's work on coding-qua-literacy; see [_Coding Literacy_](https://mitpress.mit.edu/books/coding-literacy).
+
+![Triangle showing "magical", "intuitive", and "technical" at the vertices](/img/term-angle-diagram.png)
