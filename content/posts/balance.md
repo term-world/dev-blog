@@ -92,7 +92,14 @@ every day. But, what is this about _magic_?
 
 At the simplest level, I've always seen my job as an introductory-level CS professor to be one of a kind of marketer: essentially
 a "hype" person. While some students opt for a deep understanding of the techincal aspects of CS based on a prior interest in
-kinds of disassembly. 
+kinds of disassembly. Though that profile doesn't describe every student, nearly every introductory student has or will experience
+the ["programmer's high"](https://slate.com/technology/2014/06/coders-high-the-intense-feeling-of-absorption-exclusive-to-programmers.html),
+a kind of quasi-magical/spiritual experience that transforms most of those who undergo it, giving them some form of a computational
+mission for the remainder of their lives (whether or not they "major" in the discipline).
+
+That phenomena withstanding, the folks working on `term-world` recognize its power. For many, the engagement with a magical phenomena
+can (and _should_) extend to folks who, for the first time, can directly translate a computational activity to their lived experience.
+In our building, we've refactored this binary into a..._trinary_.
 
 <style>
 p img {
@@ -101,3 +108,21 @@ p img {
 </style>
 
 ![Triangle showing "magical", "intuitive", and "technical" at the vertices](/img/term-angle-diagram.png)
+
+At the risk of having made you read too long, dear reader: how does one balance creating assignments and experiences that aspire to the
+"sweet spot" (the middle of the three-force system guiding our build): by creating assignments that mimic real-world objectives, achieve
+solutions authored by students, and _still_ have an impact in _what they do_.
+
+Here, I introduce the assignment sequence that best typifies our building principles: one that occurs roughly halfway through the semester,
+and thinks about survelliance, data-gathering, and the consequences of student actions.
+
+## There's something rotten in the state of `term-world`...
+
+(For the sake of giving technical back-end for these:
+
+* [`term-world` Week 5](https://github.com/term-world/activity-week-5)
+
+The curtain opens on `term-world` city hall in disarray, meaning: data is strewn about _everywhere_, and students have to do some manual
+analysis to keep the governance structure running. We need new processing systems because we can't get the old ones back online.
+
+
