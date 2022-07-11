@@ -54,6 +54,11 @@ maintaining some level of the "magic" of what happens in the "black box" of the 
 The above example illustrates the kind of thinking which lead our team to make the binary continuum 
 ("techical" vs. "magical") into something that depicts _three_ forces. After all, if we think about
 computer code like writing, we can think about "reading" it (this idea, of course, borrows substantively
-from Annette Vee's work on coding-qua-literacy; see [_Coding Literacy_](https://mitpress.mit.edu/books/coding-literacy).
+from Annette Vee's work on coding-qua-literacy; see [_Coding Literacy_](https://mitpress.mit.edu/books/coding-literacy)).
+Formal language (code) looks somewhat _like_ natural language (writing/speaking), so we can rely on
+student _intuition_ to understand what we mean when we propose the order in which code interprets or,
+in some cases, compiles.
 
+<p align = "center">
 ![Triangle showing "magical", "intuitive", and "technical" at the vertices](/img/term-angle-diagram.png)
+</p>
