@@ -1,5 +1,5 @@
 +++
-title = "A whole new world"
+title = "Double, double, toil and trouble"
 date = "2022-07-11"
 author = "Douglas Luman"
 authorTwitter = "douglasjluman" #do not include @
