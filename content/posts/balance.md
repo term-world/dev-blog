@@ -52,13 +52,13 @@ Typically the answer to the above answer is to say that every line in a program 
 that the Python interpreter processes each of these one at a time from the top down according to "Flow
 of Control." We create a kind of parallel construct -- "Flow of Control" -- to describe all of this.
 Reduction -- or, in this case what really amounts to packaging and vocabulary -- gives our students 
-enough techincal detail to understand what they need to know about the order of operations while still
+enough technical detail to understand what they need to know about the order of operations while still
 maintaining some level of the "magic" of what happens in the "black box" of the processor.
 
 ## Beyond the binary
 
 The above example illustrates the kind of thinking which lead our team to make the binary continuum 
-("techical" vs. "magical") into something that depicts _three_ forces. After all, if we think about
+("technical" vs. "magical") into something that depicts _three_ forces. After all, if we think about
 computer code like writing, we can think about "reading" it (this idea, of course, borrows substantively
 from Annette Vee's work on coding-qua-literacy; see [_Coding Literacy_](https://mitpress.mit.edu/books/coding-literacy)).
 Formal language (code) looks somewhat _like_ natural language (writing/speaking), so we can rely on
@@ -88,7 +88,7 @@ The push-pull relationship between technical function and intuition is clear eno
 every day. But, what is this about _magic_? 
 
 At the simplest level, I've always seen my job as an introductory-level CS professor to be one of a kind of marketer: essentially
-a "hype" person. While some students opt for a deep understanding of the techincal aspects of CS based on a prior interest in
+a "hype" person. While some students opt for a deep understanding of the technical aspects of CS based on a prior interest in
 kinds of disassembly. Though that profile doesn't describe every student, nearly every introductory student has or will experience
 the ["programmer's high"](https://slate.com/technology/2014/06/coders-high-the-intense-feeling-of-absorption-exclusive-to-programmers.html),
 a kind of quasi-magical/spiritual experience that transforms most of those who undergo it, giving them some form of a computational

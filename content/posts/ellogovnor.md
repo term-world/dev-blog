@@ -41,7 +41,7 @@ Then, when a user decides that it's time to count the votes for a poll and close
 
 ## Building `term-world` *for students*
 
-That's actually been an important but significant developmental challenge in creating `term-world`: making it sophisticated enough to accomplish the task at hand, but intentionally leaving open space for its basic functions to be improved upon. The goal is to provide students opportunities to contribute to `term-world` meaningfully, building on the basic infrastructures we provide to bring the platform's functionality to the next level.
+That's actually been a subtle but significant developmental challenge in creating `term-world`: making it sophisticated enough to accomplish the task at hand, but intentionally leaving open space for its basic functions to be improved upon. The goal is to provide students opportunities to contribute to `term-world` meaningfully, building on the basic infrastructures we provide to bring the platform's functionality to the next level.
 
 Part of leaving that space open for students also means creating as many of the building blocks of `term-world` in as non-complicated a fashion as possible--if you're going to add a new gear to the machine, you really have to be able to understand how the rest of the machine works in order to ensure your new addition fits in as expected.
 
