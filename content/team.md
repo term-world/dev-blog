@@ -57,6 +57,21 @@ CMPSC100 exposed me to the *magic* of creating and manipulating digital realitie
 
 ## Mai Nguyen (developer)
 
+#### Responsibilities
+
+* Makes sure Clive stay amicable
+* Teaches the termite how to do stuff
+* Eats all the snack
+
+#### Background
+
+* Come from Vietnam, and know how to cook Pho
+* [Student, Allegheny](https://github.com/Mai1902)
+
+#### Why `term-world`?
+
+In April, Professor Luman introduced his idea of gamifying the curriculum, and I am down to it right away! I am totally in love with the idea of transforming fundamental Computer Science classes into an interactive and real-world playground for students. I surely learn a lot from this project, including workflow, back-end programming, and many more...
+
 ---
 
 ## Clive (mascot)
