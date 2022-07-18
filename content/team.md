@@ -32,10 +32,6 @@ an immersive digital, open-world environment as our experimental space.
 
 ---
 
-## Danny Ullrich (developer)
-
----
-
 ## Jeff Normile (developer, editor)
 
 #### Responsibilities
@@ -59,9 +55,9 @@ CMPSC100 exposed me to the *magic* of creating and manipulating digital realitie
 
 #### Responsibilities
 
-* Makes sure Clive stay amicable
-* Teaches the termite how to do stuff
-* Eats all the snack
+* Makes sure Clive stays amicable
+* Teaches the termite tricks
+* Eats all the snacks
 
 #### Background
 
@@ -70,7 +66,11 @@ CMPSC100 exposed me to the *magic* of creating and manipulating digital realitie
 
 #### Why `term-world`?
 
-In April, Professor Luman introduced his idea of gamifying the curriculum, and I am down to it right away! I am totally in love with the idea of transforming fundamental Computer Science classes into an interactive and real-world playground for students. I surely learn a lot from this project, including workflow, back-end programming, and many more...
+Last April, Professor Luman introduced his idea of gamifying the curriculum, and I was interested in it right away! I am totally in love with the idea of translating fundamental Computer Science lessons into an interactive playground (based on real-world "things") for students. I've learned a lot from my involvement with this project: workflow, back-end programming, the list goes on and on...
+
+---
+
+## Danny Ullrich (developer)
 
 ---
 
