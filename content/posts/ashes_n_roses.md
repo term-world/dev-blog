@@ -6,8 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["student","reflection"]
 keywords = ["", ""]
-description = "A retrospective on the first few weeks of `term-world`'s classroom debut: the things that went
-*terribly* wrong, and the things that wound up being *terrifically* right."
+description = "A retrospective on the first few weeks of `term-world`'s classroom debut: the things that went *terribly* wrong, and the things that wound up being *terrifically* right."
 showFullContent = false
 readingTime = true
 hideComments = false
