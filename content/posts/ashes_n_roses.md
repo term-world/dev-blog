@@ -34,10 +34,10 @@ and malevolent "proxy error" swelled throughout the classroom.
 Though the class session was recovered by a quick-thinking instructor, there was still a sour taste leftover
 by the session. The following session students were presented with a choice: they could opt-in to continue
 to test a platform that was still going through development, or they could tackle the class content
-on an established platform (Jupyter). About a quarter of the students opted-in--honestly more than we
-fairly could've hoped for given the dismal first day in the world.
+on an established platform (Jupyter). About a quarter of the students opted-in (honestly more than we
+fairly could've hoped for given the dismal first day in the world).
 
-Though the transition was a little messy at first, Luman was able to scrape the paint off of our broken
+The transition was a little messy at first, but Luman was able to scrape the paint off of our broken
 canvas and move it to the more established Jupyter platform for the students that didn't want to wonder
 if they were going to be able to log-in without issue.
 
@@ -61,7 +61,7 @@ impact the little virtual world these students were inhabiting must've helped cr
 rather than sitting back and admiring a job well done, the student in question asked, "So, what's next?!"
 
 As a student enrolled at Allegheny myself, in the past couple weeks I've crossed paths with students
-taking CMSPC100 course that `term-world` has taken over. I've been asked several times about what's
+taking the CMSPC100 course that `term-world` has taken over. I've been asked several times about what's
 coming next to `term-world`, what new parts of the world the students will see and have a chance to
 shape in their own image.
 
